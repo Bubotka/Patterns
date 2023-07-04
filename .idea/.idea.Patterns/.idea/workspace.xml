@@ -26,7 +26,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Strategy/ISpeak.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -37,7 +40,23 @@
         <option value="$PROJECT_DIR$/Assets/Factory/MageFactory.cs" />
         <option value="$PROJECT_DIR$/Assets/Factory/Client.cs" />
         <option value="$PROJECT_DIR$/Assets/Factory/FireMageFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/AbstractFactory/FireMageFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/AbstractFactory/Archer.cs" />
+        <option value="$PROJECT_DIR$/Assets/AbstractFactory/Knight.cs" />
+        <option value="$PROJECT_DIR$/Assets/AbstractFactory/Resources/UnitsFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/AbstractFactory/Resources/FireUnitsFactory.cs" />
         <option value="$PROJECT_DIR$/Assets/Factory/IceMageFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/AbstractFactory/FireUnitsFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/AbstractFactory/Client.cs" />
+        <option value="$PROJECT_DIR$/Assets/AbstractFactory/MageM.cs" />
+        <option value="$PROJECT_DIR$/Assets/AbstractFactory/FireMageM.cs" />
+        <option value="$PROJECT_DIR$/Assets/AbstractFactory/Mage.cs" />
+        <option value="$PROJECT_DIR$/Assets/AbstractFactory/IceUnitsFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Strategy/ISpeak.cs" />
+        <option value="$PROJECT_DIR$/Assets/Strategy/IMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Strategy/HumanMoveBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Strategy/Human.cs" />
+        <option value="$PROJECT_DIR$/Assets/Strategy/AnimalBase.cs" />
       </list>
     </option>
   </component>
@@ -51,7 +70,7 @@
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -83,6 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1688465718375</updated>
       <workItem from="1688465720856" duration="1290000" />
+      <workItem from="1688471291155" duration="5235000" />
     </task>
     <servers />
   </component>
@@ -101,14 +121,23 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1688466449346">
+    <state x="794" y="236" key="RiderGenerateDialog" timestamp="1688472198038">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1688466449346" />
+    <state x="794" y="236" key="RiderGenerateDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1688472198038" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1688472100528">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1688472100528" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1688477687817">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1688477687817" />
   </component>
 </project>
