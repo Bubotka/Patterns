@@ -57,6 +57,9 @@
         <option value="$PROJECT_DIR$/Assets/Strategy/HumanMoveBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Strategy/Human.cs" />
         <option value="$PROJECT_DIR$/Assets/Strategy/AnimalBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Command/MoveCommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Command/MoveStraightCommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Command/Example.cs" />
       </list>
     </option>
   </component>
@@ -102,7 +105,8 @@
       <option name="presentableId" value="Default" />
       <updated>1688465718375</updated>
       <workItem from="1688465720856" duration="1290000" />
-      <workItem from="1688471291155" duration="5235000" />
+      <workItem from="1688471291155" duration="5817000" />
+      <workItem from="1688547787133" duration="1793000" />
     </task>
     <servers />
   </component>
@@ -127,14 +131,18 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="794" y="236" key="RiderGenerateDialog" timestamp="1688472198038">
+    <state x="794" y="236" key="RiderGenerateDialog" timestamp="1688549227977">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="236" key="RiderGenerateDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1688472198038" />
+    <state x="794" y="236" key="RiderGenerateDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1688549227977" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1688472100528">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1688472100528" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1688549175809">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1688549175809" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1688477687817">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
