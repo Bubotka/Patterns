@@ -28,6 +28,14 @@
           <e p="MoveCommand.cs" t="Include" />
           <e p="MoveStraightCommand.cs" t="Include" />
         </e>
+        <e p="StateMachine" t="Include">
+          <e p="InputService.cs" t="Include" />
+          <e p="IPlayerState.cs" t="Include" />
+          <e p="PlayerAttackState.cs" t="Include" />
+          <e p="PlayerIdleState.cs" t="Include" />
+          <e p="PlayerStateMachine.cs" t="Include" />
+          <e p="PlayerWalkState.cs" t="Include" />
+        </e>
         <e p="Strategy" t="Include">
           <e p="AnimalBase.cs" t="Include" />
           <e p="BawBehavior.cs" t="Include" />

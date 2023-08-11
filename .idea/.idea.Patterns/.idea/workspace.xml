@@ -30,6 +30,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Strategy/ISpeak.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/StateMachine/InputService.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -47,7 +48,6 @@
         <option value="$PROJECT_DIR$/Assets/AbstractFactory/Resources/FireUnitsFactory.cs" />
         <option value="$PROJECT_DIR$/Assets/Factory/IceMageFactory.cs" />
         <option value="$PROJECT_DIR$/Assets/AbstractFactory/FireUnitsFactory.cs" />
-        <option value="$PROJECT_DIR$/Assets/AbstractFactory/Client.cs" />
         <option value="$PROJECT_DIR$/Assets/AbstractFactory/MageM.cs" />
         <option value="$PROJECT_DIR$/Assets/AbstractFactory/FireMageM.cs" />
         <option value="$PROJECT_DIR$/Assets/AbstractFactory/Mage.cs" />
@@ -60,6 +60,12 @@
         <option value="$PROJECT_DIR$/Assets/Command/MoveCommand.cs" />
         <option value="$PROJECT_DIR$/Assets/Command/MoveStraightCommand.cs" />
         <option value="$PROJECT_DIR$/Assets/Command/Example.cs" />
+        <option value="$PROJECT_DIR$/Assets/StateMachine/IPlayerState.cs" />
+        <option value="$PROJECT_DIR$/Assets/StateMachine/PlayerIdleState.cs" />
+        <option value="$PROJECT_DIR$/Assets/StateMachine/PlayerStateMachine.cs" />
+        <option value="$PROJECT_DIR$/Assets/StateMachine/Input.cs" />
+        <option value="$PROJECT_DIR$/Assets/StateMachine/InputService.cs" />
+        <option value="$PROJECT_DIR$/Assets/AbstractFactory/Client.cs" />
       </list>
     </option>
   </component>
@@ -107,6 +113,7 @@
       <workItem from="1688465720856" duration="1290000" />
       <workItem from="1688471291155" duration="5817000" />
       <workItem from="1688547787133" duration="1793000" />
+      <workItem from="1691745240348" duration="2408000" />
     </task>
     <servers />
   </component>
@@ -131,10 +138,10 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="794" y="236" key="RiderGenerateDialog" timestamp="1688549227977">
+    <state x="794" y="236" key="RiderGenerateDialog" timestamp="1691745307755">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="236" key="RiderGenerateDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1688549227977" />
+    <state x="794" y="236" key="RiderGenerateDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1691745307755" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1688472100528">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -143,9 +150,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1688549175809" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1688477687817">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1691747464944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1688477687817" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1691747464944" />
   </component>
 </project>
