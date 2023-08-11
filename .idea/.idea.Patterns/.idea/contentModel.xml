@@ -28,6 +28,10 @@
           <e p="MoveCommand.cs" t="Include" />
           <e p="MoveStraightCommand.cs" t="Include" />
         </e>
+        <e p="Observer" t="Include">
+          <e p="HealthBar.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+        </e>
         <e p="StateMachine" t="Include">
           <e p="InputService.cs" t="Include" />
           <e p="IPlayerState.cs" t="Include" />

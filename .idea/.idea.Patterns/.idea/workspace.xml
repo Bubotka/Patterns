@@ -31,6 +31,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Strategy/ISpeak.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/StateMachine/InputService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Observer/Player.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -55,7 +56,6 @@
         <option value="$PROJECT_DIR$/Assets/Strategy/ISpeak.cs" />
         <option value="$PROJECT_DIR$/Assets/Strategy/IMove.cs" />
         <option value="$PROJECT_DIR$/Assets/Strategy/HumanMoveBehavior.cs" />
-        <option value="$PROJECT_DIR$/Assets/Strategy/Human.cs" />
         <option value="$PROJECT_DIR$/Assets/Strategy/AnimalBase.cs" />
         <option value="$PROJECT_DIR$/Assets/Command/MoveCommand.cs" />
         <option value="$PROJECT_DIR$/Assets/Command/MoveStraightCommand.cs" />
@@ -66,6 +66,9 @@
         <option value="$PROJECT_DIR$/Assets/StateMachine/Input.cs" />
         <option value="$PROJECT_DIR$/Assets/StateMachine/InputService.cs" />
         <option value="$PROJECT_DIR$/Assets/AbstractFactory/Client.cs" />
+        <option value="$PROJECT_DIR$/Assets/Strategy/Human.cs" />
+        <option value="$PROJECT_DIR$/Assets/Strategy/Dog.cs" />
+        <option value="$PROJECT_DIR$/Assets/Observer/Player.cs" />
       </list>
     </option>
   </component>
@@ -113,7 +116,7 @@
       <workItem from="1688465720856" duration="1290000" />
       <workItem from="1688471291155" duration="5817000" />
       <workItem from="1688547787133" duration="1793000" />
-      <workItem from="1691745240348" duration="2408000" />
+      <workItem from="1691745240348" duration="4831000" />
     </task>
     <servers />
   </component>
