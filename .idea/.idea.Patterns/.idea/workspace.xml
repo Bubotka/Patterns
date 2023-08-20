@@ -30,7 +30,11 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Strategy/ISpeak.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/StateMachine/InputService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/StateMachine/Client.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Singleton/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C2D036C1-6CA6-4E0E-B937-03A3B13E733A/8e/00d7dfc0/Behaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/StateMachine/IBikeState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C2D036C1-6CA6-4E0E-B937-03A3B13E733A/b7/0ed70e69/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Observer/Player.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -69,6 +73,23 @@
         <option value="$PROJECT_DIR$/Assets/Strategy/Human.cs" />
         <option value="$PROJECT_DIR$/Assets/Strategy/Dog.cs" />
         <option value="$PROJECT_DIR$/Assets/Observer/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/MVC/Controller/Controller.cs" />
+        <option value="$PROJECT_DIR$/Assets/MVC/Controller/AllLinesController.cs" />
+        <option value="$PROJECT_DIR$/Assets/MVC/MainScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/MVC/View.cs" />
+        <option value="$PROJECT_DIR$/Assets/MVC/Model.cs" />
+        <option value="$PROJECT_DIR$/Assets/MVC/Scripts/View/View.cs" />
+        <option value="$PROJECT_DIR$/Assets/MVC/Scripts/Model/Model.cs" />
+        <option value="$PROJECT_DIR$/Assets/MVCExample/MainScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Singleton/Singleton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Singleton/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/StateMachine/IBikeState.cs" />
+        <option value="$PROJECT_DIR$/Assets/StateMachine/BikeController.cs" />
+        <option value="$PROJECT_DIR$/Assets/StateMachine/BikeStartState.cs" />
+        <option value="$PROJECT_DIR$/Assets/StateMachine/BikeStopState.cs" />
+        <option value="$PROJECT_DIR$/Assets/StateMachine/BikeTurnState.cs" />
+        <option value="$PROJECT_DIR$/Assets/StateMachine/BikeStateContext.cs" />
+        <option value="$PROJECT_DIR$/Assets/StateMachine/Client.cs" />
       </list>
     </option>
   </component>
@@ -82,8 +103,14 @@
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="View" />
+    </option>
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -116,7 +143,9 @@
       <workItem from="1688465720856" duration="1290000" />
       <workItem from="1688471291155" duration="5817000" />
       <workItem from="1688547787133" duration="1793000" />
-      <workItem from="1691745240348" duration="4831000" />
+      <workItem from="1691745240348" duration="8300000" />
+      <workItem from="1692199529407" duration="1418000" />
+      <workItem from="1692440568943" duration="5078000" />
     </task>
     <servers />
   </component>
@@ -141,21 +170,21 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="794" y="236" key="RiderGenerateDialog" timestamp="1691745307755">
+    <state x="794" y="236" key="RiderGenerateDialog" timestamp="1691756139688">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="236" key="RiderGenerateDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1691745307755" />
+    <state x="794" y="236" key="RiderGenerateDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1691756139688" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1688472100528">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1688472100528" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1688549175809">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1692199534162">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1688549175809" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1691747464944">
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1692199534162" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1692440687676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1691747464944" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1692440687676" />
   </component>
 </project>

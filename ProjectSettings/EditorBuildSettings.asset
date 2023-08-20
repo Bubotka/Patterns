@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/StateMachine/StateMachine.unity
+    guid: 32de85555ac09fb4891bcb43a7a829dc
   m_configObjects: {}
